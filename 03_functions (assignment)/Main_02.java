@@ -9,7 +9,7 @@ public class Main_02 {
         System.out.print("Enter number : ");
         int num = in.nextInt();
 
-        int ans = odd_even(num);
+        odd_even(num);
     }
 
     static int odd_even(int num) {
