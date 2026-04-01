@@ -1,0 +1,15 @@
+/* LEETCODE (# 1920) */
+
+class Main_01 {
+    public int[] buildArray(int[] nums) {
+
+        int n = nums.length;
+        int[] ans = new int[n];
+
+        for (int i = 0; i <= n - 1; i++) {
+            ans[i] = nums[nums[i]];
+        }
+
+        return ans;
+    }
+}
