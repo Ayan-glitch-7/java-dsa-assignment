@@ -1,5 +1,6 @@
 /* LEETCODE (# 1389) */
 
+
 class Main_09 {
     public int[] createTargetArray(int[] nums, int[] index) {
         

@@ -1,5 +1,6 @@
 /* LEETCODE (# 1672) */
 
+
 class Main_04 {
     public int maximumWealth(int[][] accounts) {
 

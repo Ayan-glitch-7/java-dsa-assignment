@@ -1,5 +1,6 @@
 /* LEETCODE (# 1929) */
 
+
 class Main_02 {
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;

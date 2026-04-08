@@ -1,5 +1,6 @@
 /* LEETCODE (# 1832) */
 
+
 class Main_10 {
     public boolean checkIfPangram(String sentence) {
         if (sentence.length() < 26) {
