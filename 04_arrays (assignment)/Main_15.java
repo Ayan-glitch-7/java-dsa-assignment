@@ -1,7 +1,7 @@
 /* LEETCODE (# 1572) */
 
 
-class Solution {
+class Main_15 {
     public int diagonalSum(int[][] mat) {
         
         int sum = 0;
