@@ -17,7 +17,7 @@ public class Main_44 {
         rate = rate / 100;
 
         double futureValue = principal * Math.pow(1 + rate, years);
-
+ 
         System.out.printf("Future Investment Value = %.2f", futureValue);
     }
 }

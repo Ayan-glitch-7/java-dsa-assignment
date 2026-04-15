@@ -9,7 +9,7 @@ public class Main_42 {
         System.out.print("Enter string: ");
         String a = in.next();
 
-        String Reverse = "";
+        String Reverse = ""; 
 
         for (int i = a.length() - 1; i >= 0; i--) {
             Reverse = Reverse + a.charAt(i);

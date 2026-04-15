@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main_34 {
     public static void main(String[] args) {
-        
+         
         Scanner in = new Scanner(System.in);
 
         System.out.print("Enter cost price : ");

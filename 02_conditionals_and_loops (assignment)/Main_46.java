@@ -9,7 +9,7 @@ public class Main_46 {
         int a = in.nextInt();
 
         System.out.print("Enter second number: ");
-        int b = in.nextInt();
+        int b = in.nextInt(); 
 
         int x = a, y = b;
 

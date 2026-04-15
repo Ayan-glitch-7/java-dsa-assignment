@@ -18,5 +18,5 @@ public class Main_45 {
         }
 
         System.out.println("HCF = " + a);
-    }
+    } 
 }

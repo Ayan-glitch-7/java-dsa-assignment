@@ -8,7 +8,7 @@ public class Main_29 {
 
         System.out.print("Enter numbers : ");
         int n = in.nextInt();
-
+ 
         int sum = n;
         int count = 0;
 

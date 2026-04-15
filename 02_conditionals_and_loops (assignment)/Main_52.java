@@ -9,7 +9,7 @@ public class Main_52 {
         int negativeSum = 0;
         int positiveEvenSum = 0;
         int positiveOddSum = 0;
-
+ 
         System.out.println("Enter numbers (0 to stop):");
 
         while (true) {

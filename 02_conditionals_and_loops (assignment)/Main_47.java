@@ -9,7 +9,7 @@ public class Main_47 {
         char ch = in.next().charAt(0);
 
         ch = Character.toLowerCase(ch);
-
+ 
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
             System.out.println("Vowel");
         } 

@@ -7,7 +7,7 @@ public class Main_51 {
             if (day % 2 == 0) {
                 count++;
             }
-        }
+        } 
 
         System.out.println("Number of days Ayan can go out: " + count);
     }

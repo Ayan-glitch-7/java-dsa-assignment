@@ -8,7 +8,7 @@ public class Main_48 {
         System.out.print("Enter a number: ");
         int num = in.nextInt();
 
-        int sum = 0;
+        int sum = 0; 
 
         for (int i = 1; i <= num / 2; i++) {
             if (num % i == 0) {

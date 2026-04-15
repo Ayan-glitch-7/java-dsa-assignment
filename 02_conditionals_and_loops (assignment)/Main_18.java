@@ -5,7 +5,7 @@ public class Main_18 {
         
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Enter base : ");
+        System.out.print("Enter base : "); 
         Double b = in.nextDouble();
 
         System.out.print("Enter height : ");

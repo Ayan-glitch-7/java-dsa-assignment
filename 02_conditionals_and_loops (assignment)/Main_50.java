@@ -14,7 +14,7 @@ public class Main_50 {
             int digit = num % 10;  
             sum = sum + digit;     
             num = num / 10;        
-        }
+        } 
 
         System.out.println("Sum of digits = " + sum);
     }

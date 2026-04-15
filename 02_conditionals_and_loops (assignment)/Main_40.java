@@ -11,7 +11,7 @@ public class Main_40 {
         int original = num;
         double sum = 0;
         int digits = 0;
-
+ 
         // Count number of digits
         int temp = num;
         while (temp > 0) {

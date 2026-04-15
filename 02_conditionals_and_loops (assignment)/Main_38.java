@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main_38 {
      public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in); 
 
         System.out.print("Enter number of subjects: ");
         int n = in.nextInt();
